@@ -3,7 +3,8 @@
 Welcome to the Movies Data Analysis repository! Here, we explore various data science projects using a dataset containing information about movies.
 
 ### Dataset
-We use a dataset (movies_dataset.csv) that includes details such as name, rating, genre, year, score, votes, director, writer, star, country, budget, gross, company, and runtime.
+## dataset : https://www.kaggle.com/datasets/danielgrijalvas/movies?select=movies.csv
+(movies_dataset.csv): includes details such as name, rating, genre, year, score, votes, director, writer, star, country, budget, gross, company, and runtime.
 
 ### Projects Overview
 
