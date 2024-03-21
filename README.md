@@ -20,7 +20,7 @@ We use a dataset (movies_dataset.csv) that includes details such as name, rating
 Each project is implemented in Google Colabs notebooks (or Jupiter) or RMarkdown files, located in the 'notebooks' directory.
 
 ### Repository Structure:
-0. data / movies_dataset.csv
+0. movies_dataset.csv (data)
 1. EDA.ipynb
 2. Box_Office_Prediction.ipynb
 3. Genre_Classification.ipynb
