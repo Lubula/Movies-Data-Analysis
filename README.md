@@ -25,7 +25,7 @@ Each project is implemented in Google Colabs notebooks (or Jupiter) or RMarkdown
 2. Box_Office_Prediction.ipynb
 3. Genre_Classification.ipynb
 4. Recommendation_System.ipynb
-5. Time_Series_Analysis.Rmd
-6. Market_Basket_Analysis.Rmd
+5. Time_Series_Forcasting.ipynb
+6. Market_Basket_Analysis.ipynb
 7. README.md
 
