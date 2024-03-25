@@ -11,10 +11,9 @@ Welcome to the Movies Data Analysis repository! Here, we explore various data sc
 1. **Exploratory Data Analysis (EDA):** Understand the dataset's characteristics and visualize trends.
 2. **Predictive Modeling - Box Office Success:** Predict the box office success of movies using regression techniques.
 3. **Genre Classification:** Classify movies into different genres based on their attributes.
-4. **Sentiment Analysis of Reviews:** Analyze audience sentiments towards movies using NLP techniques.
-5. **Recommendation System:** Build a movie recommendation system using cosine similarity and tokenization to suggest movies to users.
-6. **Time Series Analysis:** Analyze trends and patterns in movie releases over time.
-7. **Market Basket Analysis:** Identify associations between different genres of movies.
+4. **Recommendation System:** Build a movie recommendation system using cosine similarity and tokenization to suggest movies to users.
+5.  **Time Series Analysis:** Analyze trends and patterns in movie releases over time.
+6.   **Market Basket Analysis:** Identify associations between different genres of movies.
 
 ### Notebooks
 
@@ -25,9 +24,8 @@ Each project is implemented in Google Colabs notebooks (or Jupiter) or RMarkdown
 1. EDA.ipynb
 2. Box_Office_Prediction.ipynb
 3. Genre_Classification.ipynb
-4. Sentiment_Analysis.ipynb
-5. Recommendation_System.ipynb
-6. Time_Series_Analysis.Rmd
-7. Market_Basket_Analysis.Rmd
-8. README.md
+4. Recommendation_System.ipynb
+5. Time_Series_Analysis.Rmd
+6. Market_Basket_Analysis.Rmd
+7. README.md
 
