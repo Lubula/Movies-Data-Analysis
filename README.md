@@ -13,7 +13,7 @@ Welcome to the Movies Data Analysis repository! Here, we explore various data sc
 3. **Genre Classification:** Classify movies into different genres based on their attributes.
 4. **Recommendation System:** Build a movie recommendation system using cosine similarity and tokenization to suggest movies to users.
 5.  **Time Series Analysis & forcasting:** Analyze trends and patterns in movie releases over time.
-6.   **Market Basket Analysis:** Identify associations between different genres of movies.
+6.   **Market Basket Analysis:** Identify associations between different genres of movies over time.
 
 ### Notebooks
 
