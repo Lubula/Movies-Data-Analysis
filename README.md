@@ -4,7 +4,7 @@ Welcome to the Movies Data Analysis repository! Here, we explore various data sc
 
 ### Dataset
 ## dataset : https://www.kaggle.com/datasets/danielgrijalvas/movies?select=movies.csv
-(movies_dataset.csv): includes details such as name, rating, genre, year, score, votes, director, writer, star, country, budget, gross, company, and runtime.
+Includes details such as name, rating, genre, year, score, votes, director, writer, star, country, budget, gross, company, and runtime.
 
 ### Projects Overview
 
@@ -15,17 +15,4 @@ Welcome to the Movies Data Analysis repository! Here, we explore various data sc
 5.  **Time Series Analysis & forcasting:** Analyze trends and patterns in movie releases over time.
 6.   **Market Basket Analysis:** Identify associations between different genres of movies over time.
 
-### Notebooks
-
-Each project is implemented in Google Colabs notebooks (or Jupiter) or RMarkdown files, located in the 'notebooks' directory.
-
-### Repository Structure:
-0. movies_dataset.csv (data)
-1. EDA.ipynb
-2. Box_Office_Prediction.ipynb
-3. Genre_Classification.ipynb
-4. Recommendation_System.ipynb
-5. Time_Series_Forcasting.ipynb
-6. Market_Basket_Analysis.ipynb
-7. README.md
 
